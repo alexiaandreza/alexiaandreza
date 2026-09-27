@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou a Alexia 👋
 
-<!--
-**alexiaandreza/alexiaandreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduanda em Ciência da Computação no CEFET/RJ
+⚙️ Jovem Aprendiz de Automação na Ternium
+📊 Interesse em Dados e Automação
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo minha base técnica por meio de projetos práticos
+envolvendo processamento de dados, automação e bancos de dados relacionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+- Python
+- SQL
+- Pandas
+- SQLite
+- Git & GitHub
+
+## 🚀 Projeto em destaque
+
+### 📦 [catalogo-produtos-etl](https://github.com/alexiaandreza/catalogo-produtos-etl)
+
+Pipeline desenvolvido em Python para validar, limpar, normalizar e armazenar
+dados de um catálogo de produtos em um banco relacional SQLite, com CRUD e
+modelagem por chaves estrangeiras.
+
+## 📚 Base que venho construindo
+
+- Análise e tratamento de dados
+- Python e Pandas
+- SQL e bancos de dados
+- Estruturas de Dados e Algoritmos
+- Programação Orientada a Objetos
+- Automação com Python
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/alexia-andreza)
