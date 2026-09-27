@@ -1,7 +1,7 @@
 # Olá, eu sou a Alexia 👋
 
-🎓 Graduanda em Ciência da Computação no CEFET/RJ
-⚙️ Jovem Aprendiz de Automação na Ternium
+🎓 Graduanda em Ciência da Computação no CEFET/RJ<br>
+⚙️ Jovem Aprendiz de Automação na Ternium<br>
 📊 Interesse em Dados e Automação
 
 Atualmente estou desenvolvendo minha base técnica por meio de projetos práticos
