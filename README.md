@@ -11,9 +11,6 @@ envolvendo processamento de dados, automação e bancos de dados relacionais.
 
 - Python
 - SQL
-- Pandas
-- SQLite
-- Git & GitHub
 
 ## 🚀 Projeto em destaque
 
